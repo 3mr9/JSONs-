@@ -1,0 +1,32 @@
+[
+  {
+    "img": "https://i.imgur.com/bSP0bOj.jpeg",
+    "title": "Americano",
+    "desc": "An americano is just water and espresso."
+  },
+  {
+    "img": "https://i.imgur.com/gr9OH8W.jpeg",
+    "title": "Latte",
+    "desc": "A latte is made up of one or two shots of espresso, steamed milk and a final, thin layer of frothed milk on top."
+  },
+  {
+    "img": "https://i.imgur.com/PX1Eh85.png",
+    "title": "Espresso",
+    "desc": "A single shot of coffee, served in a small demitasse cup."
+  },
+  {
+    "img": "https://i.imgur.com/ibQAdV2.jpeg",
+    "title": "Cappuccino",
+    "desc": "A freshly pulled shot of espresso layered with steamed whole milk and thick rich foam"
+  },
+  {
+    "img": "https://i.imgur.com/shufrwN.jpeg",
+    "title": "Mocha",
+    "desc": "A shot of espresso is combined with chocolate powder or syrup, followed by milk or cream."
+  },
+  {
+    "img": "https://i.imgur.com/QR0I9lT.jpeg",
+    "title": "Turkish",
+    "desc": "Very finely ground coffee brewed by boiling"
+  }
+]
