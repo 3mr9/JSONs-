@@ -4,7 +4,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipOxa2ahvJKH2RqJ_gxqW_yDWkWlLN_ec61bmKTM=w408-h306-k-no",
     "nme": "البيك",
     "cat": "وجبات سريعة",
-    "des": "An americano is just water and espresso.",
+    "des": "احد أشهر المطاعم، إن لم يكن الأشهر. يقدم البيك الدجاج المقلي والشطائر",
     "loc": "https://maps.app.goo.gl/3vXgEHWRZbDXd3As5"
   },
   {
@@ -12,7 +12,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipOotE7sUynTevn7NuC7Y8e2Ry2bIjXdgrzGOcgC=w456-h240-k-no",
     "nme": "الطازج",
     "cat": "وجبات سريعة",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم وجبات الدجاج المشوي والشطائر وبعض وجبات الأرز",
     "loc": "https://maps.app.goo.gl/rJz6HrJDYGwXB8Mm9"
   },
   {
@@ -20,7 +20,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipNN6kxJUSeJFz6ejk4Qfie-H-kCMBe8_A-yB1Gu=w408-h449-k-no",
     "nme": "كتيكت",
     "cat": "وجبات سريعة",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم الدجاج المقلي",
     "loc": "https://maps.app.goo.gl/dvjeJmT3EThc1fWR7"
   },
   {
@@ -28,7 +28,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipNjJ8hXdJPqJ_Y7VSc7roXJHaIuW-eDl_s4LExz=w408-h306-k-no",
     "nme": "كودو",
     "cat": "وجبات سريعة",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم الشطائر. من الدجاج واللحم الى البرجر",
     "loc": "https://maps.app.goo.gl/yVN5n5DQnVMJih8t8"
   },
   {
@@ -36,7 +36,7 @@
     "img": "https://lh3.googleusercontent.com/p/AF1QipPbs5PzA2TIkno1IoOJ8ytlWgGCXazP9TPvjmxn=w408-h725-k-no",
     "nme": "عم قاسم",
     "cat": "الإفطار",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم أنواع من أطعمة الأفطار المشهورة في مكة، مثل البيض والمعصوب والفول",
     "loc": "https://maps.app.goo.gl/HFbVBHYivf9ec8hc8"
   },
   {
@@ -44,7 +44,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipP_wGDeJK7VQf2ynOyLSgPEXaEBG69TXcAZ51f_=w408-h544-k-no",
     "nme": "جرافيتي برجر",
     "cat": "وجبات سريعة",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم أنواع من البرجر والبطاطا المقلية والشطائر",
     "loc": "https://maps.app.goo.gl/jFMCCZbNojHVvE2e7"
   },
   {
@@ -52,7 +52,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipPwTF8waT-H2Cmy1_a2-v4OECnQd8u-bgh1n0jS=w408-h544-k-no",
     "nme": "بيتزا وافي",
     "cat": "بيتزا",
-    "des": "An americano is just water and espresso.",
+    "des": "أحد أفضل مطاعم البيتزا في مكة برأئي الشخصي، يقدمون انواع من البيتزا بمختلف انواع العجين",
     "loc": "https://maps.app.goo.gl/6WxJjLt25F4QSccU7"
   },
   {
@@ -60,7 +60,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipPFQSLJ3pzF4iKwemOitFQAfOxUvSQY9WnpArrC=w426-h240-k-no",
     "nme": "بيتزا لورينزو",
     "cat": "بيتزا",
-    "des": "An americano is just water and espresso.",
+    "des": "يقدم لورينزو البيتزا والمعكرونة بنهكة إيطالية",
     "loc": "https://maps.app.goo.gl/7keTqzHGhURah9Qm9"
   },
   {
@@ -68,7 +68,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipMB4wDygjMmhaVziZyU9UkUjTgT9yJqdq9ID6ko=s512",
     "nme": "بارنز",
     "cat": "مقهى",
-    "des": "An americano is just water and espresso.",
+    "des": "بارنز غالباً ما يكون كشك تجده على جانب الطريق او بالقرب من محطة وقود، لكن الأكيد انهم يقدمون قهوة لذيذة، باردة او ساخنة",
     "loc": "https://maps.app.goo.gl/qsmYCbdtsrzuRUyw5"
   },
   {
@@ -76,7 +76,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipMU9QRXev4B61arO_6mehuKaKIyFK9Zl4HVVGqG=s1536",
     "nme": "مقهى الأمراء",
     "cat": "مقهى",
-    "des": "An americano is just water and espresso.",
+    "des": "مقهى يحتوي على انواع القهوة المعروفة مع بعض المشروبات الأخرى، مثل الشاي المثلج",
     "loc": "https://maps.app.goo.gl/fjWC2dhMpddGmggD6"
   },
   {
@@ -84,7 +84,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipMP3Fd-U8A_AOQaW5D-Mxai9VI7ZGE5UMZvzA3T=w426-h240-k-no",
     "nme": "مقهى زيكا",
     "cat": "مقهى",
-    "des": "An americano is just water and espresso.",
+    "des": "مقهى بقائمة صغيرة لكنها جيدة، يقدمون القهوة وبعض الحلويات",
     "loc": "https://maps.app.goo.gl/CAVfcJMY8sNvX4Jm6"
   },
   {
@@ -92,7 +92,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipOftGh7SJm0eoU3zOijCB9umaLopiOCslSgRz7F=w408-h612-k-no",
     "nme": "مقهى جوينت",
     "cat": "مقهى",
-    "des": "An americano is just water and espresso.",
+    "des": "-",
     "loc": "https://maps.app.goo.gl/hcJ4eaVR5FNDw7mbA"
   },
   {
@@ -100,7 +100,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipN7ixzap58rNgwLNCCEg_ZEhwxhdEnbBMbt3VLO=w408-h306-k-no",
     "nme": "فدن الجاوي",
     "cat": "آسوي",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم الطعام الجاوي",
     "loc": "https://maps.app.goo.gl/5sxHcEvif1t8CwZv7"
   },
   {
@@ -108,7 +108,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipNMGuGvgrUj1qL8FR3GS2wR9iiVuXaZgu7BbIMD=w408-h306-k-no",
     "nme": "إسكندر كباب",
     "cat": "مشاوي",
-    "des": "An americano is just water and espresso.",
+    "des": "-",
     "loc": "https://maps.app.goo.gl/GBqoTpqeuje1gcDf8"
   },
   {
@@ -116,7 +116,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipMRwTNRQ1qP3I6kI14lbrD_FAYWBCFvPhetKL8=s512",
     "nme": "فلافل شاهر",
     "cat": "الإفطار",
-    "des": "An americano is just water and espresso.",
+    "des": "أحد افضل المطاعم التي تقدم الفلافل كشطيرة او كما هي. يتميز بالخلطة والنكهة الشامية",
     "loc": "https://maps.app.goo.gl/Es2eF1YPNgNMsmYn9"
   },
   {
@@ -124,7 +124,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipNocN3u4QF2Jrx-jAraa_mrEQqcZOmBVbXYobaO=w408-h544-k-no",
     "nme": "حمص ريفي",
     "cat": "الإفطار",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم وجبات الأفطار مثل الحمص والفلافل",
     "loc": "https://maps.app.goo.gl/E51KDzWqZ1drMqc49"
   },
   {
@@ -132,7 +132,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipPDxgyMK-ObE9MuGwDoiukdVRfB67TBHac75Oc9=w408-h306-k-no",
     "nme": "ترويقة زمان",
     "cat": "الإفطار",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم الفلافل والمسبحة والحمص وغيرها من وجبات الأفطار المشابهة",
     "loc": "https://maps.app.goo.gl/JNg7scK7yCQYsfLs8"
   },
   {
@@ -140,7 +140,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipPEJ51bHsrn8ETWk15GoK_6vvo02VHyHaburRM=w408-h632-k-no",
     "nme": "برجر أب",
     "cat": "وجبات سريعة",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم بقائمة طعام صغيرة لكنها مبهرة، يقدم برجر اللحم والدجاج بالإضافة للبطاطا المقلية",
     "loc": "https://maps.app.goo.gl/qUr1bnz7x6Nv7ecr9"
   },
   {
@@ -148,7 +148,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipMKKPaWcX4L3eC59ciLVRiUYGSR4P_mdH83sT2c=w426-h240-k-no",
     "nme": "ويستر",
     "cat": "وجبات سريعة",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم برجر ذو طابع شبابي محبوب بين سكان المدينة. يقدم البرجر والبطاطا المقلية. يتميز بالتعاونات التي يقوم بها كل فترة مع العلامات التجارية المشهورة",
     "loc": "https://maps.app.goo.gl/6oaAtK86p3SU9vQr7"
   },
   {
@@ -156,7 +156,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipN1UfbatAcZOV8ExKfwF89dpmLneyW4X5eMpqHd=w520-h240-k-no",
     "nme": "القرموشي",
     "cat": "الإفطار",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم الإفطار اليمني مثل الفول والقلابة والعريكة",
     "loc": "https://maps.app.goo.gl/Y4wng4tQkFLB9FGg9"
   },
   {
@@ -164,7 +164,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipNuMRs4oqGgZ-lhiZDtKgocNS6hk-E4OcBqOPdn=w408-h306-k-no",
     "nme": "عابد البخاري",
     "cat": "الأرز",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم الأرز والدجاج",
     "loc": "https://maps.app.goo.gl/JRrk9U7g6AeMJfSSA"
   },
   {
@@ -172,7 +172,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipMsAiHR-9Q4kCrzYexaPVY71PHtokMt-9ZidBFS=w408-h260-k-no",
     "nme": "اللقماني البخاري",
     "cat": "الأرز",
-    "des": "An americano is just water and espresso.",
+    "des": "مطعم يقدم الأرز والدجاج. يتميز بالنكهة المميزة للبرياني والبخاري",
     "loc": "https://maps.app.goo.gl/f3GEn79YLcBjZ8Gk8"
   },
   {
@@ -180,7 +180,7 @@
     "img": "https://lh5.googleusercontent.com/p/AF1QipPdpkMOo6bGZxGUr0igyoVsbgxkmGh5y3Wwhu4s=w408-h544-k-no",
     "nme": "مقهى هاف مليون",
     "cat": "مقهى",
-    "des": "An americano is just water and espresso.",
+    "des": "مقهى يقدم أنواع القهوة المعروفة مع بعض الخلطات المميزة",
     "loc": "https://maps.app.goo.gl/v9YSrHhAH741hQ6h6"
   }
 ]
